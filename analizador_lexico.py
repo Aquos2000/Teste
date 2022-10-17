@@ -5,3 +5,8 @@ with open("arquivo.txt") as f:
 if "\t" in contents:
 	print(contents)  
 	print()
+
+pipiupuiu
+print asdusadhusad
+gay
+?
